@@ -32,6 +32,12 @@ blocks:
     - Numero 
     - Color
     - Direccion
-    - procedures_defnoreturnnoparams
+    - procedures_defnoreturn
+    - OperadorNumerico
+    - AlternativaCompleta
+    - puedeMover
+    - RepeticionCondicional
+    - not
+    - opuesto
   disabled: []
 name: Flappy
