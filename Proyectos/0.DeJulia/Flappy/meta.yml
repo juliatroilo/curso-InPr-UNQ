@@ -27,6 +27,7 @@ blocks:
   visible:
     - Poner
     - Mover
+    - IrAlBorde
     - MisProcedimientos
     - RepeticionSimple
     - Numero 
