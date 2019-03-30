@@ -1,6 +1,9 @@
 [ { "name": "Practica1DeJuliaFlappy"         , "repo": "juliatroilo/curso-InPr-UNQ",
   "exercises": [
-     { "id": "1.2",        "name": "Dibujando Tubos",
+    { "id": "1.1",        "name": "Moviendo a Flappy",
+      "path": "Proyectos/0.DeJulia/1.1 Moviendo a Flappy"
+    }
+   , { "id": "1.2",        "name": "Dibujando Tubos",
        "path": "Proyectos/0.DeJulia/1.2 Dibujando Tubos"
      }
    , { "id": "1.3",        "name": "Escenario Tuboso",
