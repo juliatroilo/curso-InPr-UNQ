@@ -1,8 +1,11 @@
 [ { "name": "Practica1DeJuliaFlappy"         , "repo": "juliatroilo/curso-InPr-UNQ",
   "exercises": [
-     { "id": "1.1",        "name": "Flappy",
-       "path": "Proyectos/0.DeJulia/Flappy"
+     { "id": "1.2",        "name": "Dibujando Tubos",
+       "path": "Proyectos/0.DeJulia/1.2 Dibujando Tubos"
      }
+   , { "id": "1.3",        "name": "Escenario Tuboso",
+      "path": "Proyectos/0.DeJulia/1.3 Escenario Tuboso"
+    }
   ] }
 , { "name": "Descubrir Gobstones"         , "repo": "gobstones/curso-InPr-UNQ",
    "exercises": [

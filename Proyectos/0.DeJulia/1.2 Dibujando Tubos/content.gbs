@@ -1,0 +1,12 @@
+procedure HacerTuboInferior(longitud) {
+}
+
+
+program {
+  Mover(Este)
+  HacerTuboInferior(3)
+  Mover(Este)
+  Mover(Este)
+  IrAlBorde(Sur)
+  HacerTuboInferior(6)
+}
