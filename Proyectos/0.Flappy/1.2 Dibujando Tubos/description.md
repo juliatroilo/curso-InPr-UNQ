@@ -1,6 +1,6 @@
 #Actividad 1.2 Dibujando Tubos
 
-Completa el procedimiento que se muestra en el inicio del ejercico. 
+Completa el procedimiento que se muestra en el inicio del ejercicio. El objetivo del procedimiento es dibujar un tubo partiendo del borde inferior y hacia arriba.
 
 **Codificación:**
 + **Punta tubo abajo:** 2 bolitas verdes

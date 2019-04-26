@@ -1,5 +1,5 @@
 #Ahora el juego completo
-Objetivo: el objetivo de este ejerciquecio es generar el juego completo. Como ya sabemos con las teclas podemos hacer que Flappy se mueva entre los tubos.
+Objetivo: el objetivo de este ejercicio es generar el juego completo. Como ya sabemos con las teclas podemos hacer que Flappy se mueva entre los tubos.
 El jugador ganará cuando Flappy llegue al borde derecho sin haberse chocado con ningúno de los tubos y en ese caso sonreirá, en caso contrario se perderá el juego tirando un mensaje de error. Tener en cueta que si Flappy se ecuentra inactivo por determinado tiempo debe avanzar solo. A jugar!
 
 **Codificación de Bolitas:**
