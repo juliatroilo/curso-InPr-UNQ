@@ -3,7 +3,9 @@ Objetivo: el objetivo de este ejerciquecio es generar el juego completo. Como ya
 El jugador ganará cuando Flappy llegue al borde derecho sin haberse chocado con ningúno de los tubos y en ese caso sonreirá, en caso contrario se perderá el juego tirando un mensaje de error. Tener en cueta que si Flappy se ecuentra inactivo por determinado tiempo debe avanzar solo. A jugar!
 
 **Codificación de Bolitas:**
-+ **Pájaro:** 1 bolita negra 
++ **Pájaro:** 1 bolita negra
++ **Pájaro sonriente:** 2 bolitas negras
+
 
 **Codificación de Teclas:**
 + **Arriba:** Flecha arriba 
